@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Singh
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning data structures in C++
+- 🌱 I’m currently learning Data Structures and Algorithm in C++ .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
