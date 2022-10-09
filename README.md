@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
+- 🔭 I’m currently a student at **Greater Nodia Institute of Technology,GGSIPU.**
+
 - 📫 How to reach me **karansinghgusain1@gmail.com**
+
+- 🌱 I’m currently learning **DSA.** 
+
+- 👀I’m interested in learning **new technologies.**
 
 - ⚡ Fun fact **I love to draw drawings and readings books.**
 
