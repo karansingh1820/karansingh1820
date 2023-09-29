@@ -25,12 +25,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karansingh1820&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh1820&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=karansingh1820&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 [![@karansingh1820's Holopin board](https://holopin.me/karansingh1820)](https://holopin.io/@karansingh1820)
